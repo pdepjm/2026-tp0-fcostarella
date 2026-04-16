@@ -16,6 +16,6 @@ $$
 0<|x-a|<\delta \Rightarrow |f(x)-L|<\varepsilon
 $$
 
-<div style="text-align: center;">
+<div align="center">
   <img src="./LimiteDef_Grafico.png" alt="Gráfico de límite por definición">
 </div>
